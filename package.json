@@ -1,0 +1,19 @@
+{
+  "name": "kalingaray",
+  "version": "1.0.0",
+  "description": "A profile website  for kalinga",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalinga/nodejs-projects.git"
+  },
+  "author": "Kalinga Bhusan Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalinga/nodejs-projects/issues"
+  },
+  "homepage": "https://github.com/Kalinga/nodejs-projects#readme"
+}
